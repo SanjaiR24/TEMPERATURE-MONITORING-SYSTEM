@@ -37,3 +37,5 @@ SDA: A4
 SCL: A5
 
 *OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/24fe181a-7200-4646-ac77-a459a5dab2ea)
